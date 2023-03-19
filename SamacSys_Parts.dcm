@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LTM2884CY#PBF
+D LINEAR TECHNOLOGY - LTM2884CY#PBF - USB TRANSCEIVER, 12MBPS, BGA-44
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2884fb.pdf
+$ENDCMP
+#
+$CMP LTC4411ES5#TRMPBF
+D LTC4411CS8 battery/mains PS controller LTC4411ES5#TRMPBF, Battery Charge Controller, 2600mA, 5-Pin SOT-23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00092147.pdf
+$ENDCMP
+#
+#End Doc Library
