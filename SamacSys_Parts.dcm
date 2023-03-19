@@ -24,4 +24,10 @@ K
 F https://www.murata.com/en-sg/products/productdetail?partno=CSTCE16M0V53-R0
 $ENDCMP
 #
+$CMP F-60-A
+D 5A PCB Mounts for 5.2 x 20mm Cartridge Fuse
+K
+F 
+$ENDCMP
+#
 #End Doc Library
