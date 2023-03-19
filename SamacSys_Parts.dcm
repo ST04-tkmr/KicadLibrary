@@ -18,4 +18,10 @@ K
 F https://datasheet.datasheetarchive.com/originals/distributors/SFDatasheet-4/sf-00092147.pdf
 $ENDCMP
 #
+$CMP CSTCE16M0V53-R0
+D CSTCE16M0V53-R0, Ceramic Resonator, 16MHz Expander 15pF, 3-Pin SMT, 3.2 x 1.3 x 0.9mm
+K
+F https://www.murata.com/en-sg/products/productdetail?partno=CSTCE16M0V53-R0
+$ENDCMP
+#
 #End Doc Library
