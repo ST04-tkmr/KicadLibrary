@@ -30,4 +30,10 @@ K
 F 
 $ENDCMP
 #
+$CMP ISO1042DWVR
+D Isolated CAN Transceiver With 70-V Bus Fault Protection and Flexible Data Rate
+K
+F http://www.ti.com/lit/gpn/ISO1042
+$ENDCMP
+#
 #End Doc Library
