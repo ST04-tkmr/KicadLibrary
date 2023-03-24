@@ -36,4 +36,10 @@ K
 F http://www.ti.com/lit/gpn/ISO1042
 $ENDCMP
 #
+$CMP 87831-1420
+D Header 2.00mm Milli-Grid, vert, TH, 14w Molex MILLI-GRID Series, Series Number 87831, 2mm Pitch 14 Way 2 Row Straight PCB Header, Solder Termination, 2A
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/a2545eee6619240fbcc1bdd75e599df7.pdf
+$ENDCMP
+#
 #End Doc Library
