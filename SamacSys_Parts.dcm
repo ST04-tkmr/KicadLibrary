@@ -48,4 +48,10 @@ K
 F https://toshiba.semicon-storage.com/info/docget.jsp?did=63606&prodName=CUHS20S30
 $ENDCMP
 #
+$CMP SB1003M3-TL-W
+D Schottky Diodes & Rectifiers SCHOTTKY DIODE 1A 30V
+K
+F https://componentsearchengine.com/Datasheets/1/SB1003M3-TL-W.pdf
+$ENDCMP
+#
 #End Doc Library
