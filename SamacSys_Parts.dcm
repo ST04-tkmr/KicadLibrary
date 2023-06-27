@@ -54,4 +54,16 @@ K
 F https://componentsearchengine.com/Datasheets/1/SB1003M3-TL-W.pdf
 $ENDCMP
 #
+$CMP UUG1E471MNR1MS
+D Aluminum Electrolytic Capacitors - SMD
+K
+F http://www.mouser.com/datasheet/2/293/e-ug-1511505.pdf
+$ENDCMP
+#
+$CMP MCWI03-12S15
+D Descriptions of MinMax MCWI03-12S15 provided by its distributors.
+K
+F https://akizukidenshi.com/download/ds/minmax/MCWI03-12x.pdf
+$ENDCMP
+#
 #End Doc Library
