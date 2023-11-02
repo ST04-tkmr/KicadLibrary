@@ -72,4 +72,10 @@ K
 F https://www.renesas.com/document/dst/renesas-ra4m1-group-datasheet?language=en&r=1054146
 $ENDCMP
 #
+$CMP TCAN1042DQ1
+D Automotive Fault Protected CAN Transceiver With Flexible Data-Rate
+K
+F http://www.ti.com/lit/gpn/tcan1042-q1
+$ENDCMP
+#
 #End Doc Library
