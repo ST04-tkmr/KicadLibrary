@@ -78,4 +78,16 @@ K
 F http://www.ti.com/lit/gpn/tcan1042-q1
 $ENDCMP
 #
+$CMP TPS2H160BQPWPRQ1
+D 40-V, 160-m&Omega; dual-channel smart high-side switch
+K
+F http://www.ti.com/lit/gpn/tps2h160-q1
+$ENDCMP
+#
+$CMP TPS2H160AQPWPRQ1
+D 40-V, 160-m&Omega; dual-channel smart high-side switch
+K
+F http://www.ti.com/lit/gpn/tps2h160-q1
+$ENDCMP
+#
 #End Doc Library
